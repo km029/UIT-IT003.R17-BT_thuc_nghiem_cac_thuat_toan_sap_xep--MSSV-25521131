@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1791562942 source:d:\nam_2_uit\cau truc du lieu it003\bt slide\bt_tuan_4\merge_sort_tu_viet\main.cpp
+	<iostream>
+	<fstream>
+	<chrono>
+	<string>
+	<iomanip>
+

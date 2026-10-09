@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1791563201 source:d:\nam_2_uit\cau truc du lieu it003\bt slide\bt_tuan_4\sort_c++\main.cpp
+	<iostream>
+	<fstream>
+	<chrono>
+	<string>
+	<iomanip>
+	<algorithm>
+
